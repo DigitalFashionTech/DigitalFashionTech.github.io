@@ -8,7 +8,7 @@ profile:
   align: right
   image: lz.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
   <p>联系邮箱： Koala@zstu.edu.cn</p>
   <p>联系地址：7-513</p>
   <p>数字化服装技术,功能服装设计与开发</p>
