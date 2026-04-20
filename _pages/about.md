@@ -46,7 +46,7 @@ latest_posts:
   </div>
   
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  < img src="/assets/img/yy.jpg" alt="杨阳" style="width: 160px; height: auto; border-radius: 6px; margin-right: 1.5em;">
+  <img src="/assets/img/yy.jpg" alt="杨阳" style="width: 160px; height: auto; border-radius: 6px; margin-right: 1.5em;">
   <div>
     <h3 style="margin-top: 0;">杨阳</h3>
     <p><strong>职称/职务：</strong>副教授</p>
