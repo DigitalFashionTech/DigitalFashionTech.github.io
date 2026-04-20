@@ -2,7 +2,7 @@
 layout: page
 title: 专利项目
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: 专利项目.
 nav: true
 nav_order: 3
 display_categories: [专利, 项目]
