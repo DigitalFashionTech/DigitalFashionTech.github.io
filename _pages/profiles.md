@@ -13,7 +13,7 @@ profiles:
     more_info: >
       <p><strong>黄小源</strong></p>
       <p>博士研究生</p>
-  - image: xjh.jpg<br/>
+  - image: xjh.jpg
     more_info: >
       <p><strong>薛家和</strong></p>
       <p>博士研究生</p>
@@ -51,36 +51,36 @@ profiles:
       <p>硕士研究生</p>
   - image: ly.jpg
     more_info: >
-    <p><strong>刘洋</strong></p>
-    <p>硕士研究生</p>
+      <p><strong>刘洋</strong></p>
+      <p>硕士研究生</p>
   - image: zjz.jpg
     more_info: >
       <p><strong>周鉴琢</strong></p>
       <p>硕士研究生</p>
   - image: plh.jpg
     more_info: >
-    <p><strong>彭丽花</strong></p>
-    <p>硕士研究生</p>
+      <p><strong>彭丽花</strong></p>
+      <p>硕士研究生</p>
   - image: yhb.jpg
     more_info: >
-    <p><strong>叶海斌</strong></p>
-    <p>硕士研究生</p>
+      <p><strong>叶海斌</strong></p>
+      <p>硕士研究生</p>
   - image: yyl.jpg
     more_info: >
       <p><strong>尹玉林</strong></p>
       <p>硕士研究生</p>
   - image: hhy.jpg
     more_info: >
-    <p><strong>黄浩毅</strong></p>
-    <p>硕士研究生</p>
+      <p><strong>黄浩毅</strong></p>
+      <p>硕士研究生</p>
   - image: wyn.jpg
     more_info: >
-    <p><strong>吴彦诺</strong></p>
-    <p>硕士研究生</p>
+      <p><strong>吴彦诺</strong></p>
+      <p>硕士研究生</p>
   - image: bjw.jpg
     more_info: >
-    <p><strong>卜靖雯</strong></p>
-    <p>硕士研究生</p>
+      <p><strong>卜靖雯</strong></p>
+      <p>硕士研究生</p>
 ---
 <div class="team-container">
   {% for profile in page.profiles %}
