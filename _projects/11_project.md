@@ -1,12 +1,11 @@
 ---
 layout: page
-title: 一种通气下水裤
+title: 一种基于高精度数字图像的服装缝线疵点自动检测方法
 description:
-img: assets/img/zl8.jpg
-importance: 8
+img: assets/img/zl11.png
+pdf: /assets/pdf/202110740826.1一种基于高精度数字图像的服装缝线疵点自动检测方法.pdf
+importance: 11
 category: 专利
-pdf: /assets/pdf/201510589258.4一种通气下水裤.pdf
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
