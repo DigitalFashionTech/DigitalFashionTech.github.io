@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>联系邮箱： Koala@zstu.edu.cn</p>
-  <p>联系地址：7-513</p >
+  <p>联系地址：7-513</p>
   <p>数字化服装技术,功能服装设计与开发</p>
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
