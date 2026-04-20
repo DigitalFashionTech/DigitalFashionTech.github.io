@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
+title: 一种两段式防水透气袖子
+description: 
+img: assets/img/zl7.jpg
+pdf: ""
+importance: 7
+category: 专利
 related_publications: true
 ---
 

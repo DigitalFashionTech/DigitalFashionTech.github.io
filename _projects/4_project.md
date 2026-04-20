@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: 一种基于Faster R-CNN网络的衬衣袖口工艺识别方法
+description:
+img: assets/img/zl4.png
+pdf: /assets/pdf/202210187270.2一种基于Faster R-CNN网络的衬衣袖口工艺识别方法.pdf
+importance: 4
+category: 专利
 ---
 
 Every project has a beautiful feature showcase page.
