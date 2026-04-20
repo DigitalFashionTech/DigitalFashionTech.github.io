@@ -8,7 +8,7 @@ permalink: /team/
   {% for profile in site.data.profiles.profiles %}
     <div class="team-card">
   
-      < img src="{{ profile.image | prepend: '/assets/img/' }}" class="team-img">
+      <img src="{{ profile.image | prepend: '/assets/img/' }}" class="team-img">
       <div class="team-info">
         {{ profile.more_info }}
       </div>
