@@ -1,13 +1,31 @@
 ---
 layout: page
-title: projects
+title: 专利项目
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [专利, 项目]
 horizontal: false
 ---
+
+<!-- pages/projects.md -->
+<h2><span class="emoji emoji1f3c6"></span> 获奖</h2>
+
+{% for group in site.data.awards.awards %}
+  <h3 class="award-year">{{ group.year }}</h3>
+  
+  <div class="awards-container">
+    {% for award in group.items %}
+      <div class="award-card">
+        <a href=" '/assets/img/' }}" target="_blank">
+          <img src="{{ award.img | prepend: '/assets/img/' }}" class="award-img">
+        </a>
+        <p class="award-title">{{ award.title }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
 
 <!-- pages/projects.md -->
 <div class="projects">
